@@ -1,6 +1,0 @@
-services:
-  - type: worker  # or "web" if it's a web service
-    name: ds-filter-bot  # Customize this
-    dockerfilePath: ./Dockerfile  # Points to your Dockerfile
-    env: docker  # Explicitly specify Docker environment
-    plan: free  # Or "starter", "standard" based on needs
