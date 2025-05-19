@@ -2,7 +2,11 @@
   <img src="![golden-initial-letter-am-hexagon-logo-design-vector](https://github.com/user-attachments/assets/6f0cdfc5-b837-4f4f-80ea-06ac288a3389)">
 </p>
 <h1 align="center">
-Ꭺᴍɪᴛ 𝓶ovi𝓮 
+Ꭺᴍɪᴛ 𝓶ovi𝓮
+
+
+
+  
 ## Main Feature 
 <b>
   
