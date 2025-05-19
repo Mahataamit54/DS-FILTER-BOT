@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/b5vd3s2Htw8fFdMT9" alt="VJ-Filter-Bot Logo">
+  <img src="![golden-initial-letter-am-hexagon-logo-design-vector](https://github.com/user-attachments/assets/6f0cdfc5-b837-4f4f-80ea-06ac288a3389)">
 </p>
 <h1 align="center">
   VJ FILTER BOT
