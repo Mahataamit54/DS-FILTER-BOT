@@ -3,11 +3,6 @@
 </p>
 <h1 align="center">
 Ꭺᴍɪᴛ 𝓶ovi𝓮 
-</h1>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Ꭺᴍɪᴛ+𝓶ovi𝓮 +Bot!)
-</p>
-
 ## Main Feature 
 <b>
   
