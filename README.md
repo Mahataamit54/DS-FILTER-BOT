@@ -2,7 +2,7 @@
   <img src="![golden-initial-letter-am-hexagon-logo-design-vector](https://github.com/user-attachments/assets/6f0cdfc5-b837-4f4f-80ea-06ac288a3389)">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+Ꭺᴍɪᴛ 𝓶ovi𝓮 
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DS+Filter+Bot!)
